@@ -1,0 +1,7 @@
+Timestamp,User,Document,Pages,Color,Cost
+2026-01-20 09:15:22,liberth.dev,Relatorio_Mensal.pdf,15,Grayscale,0.75
+2026-01-20 10:30:05,admin,Orçamento_Reforma.docx,4,Color,2.00
+2026-01-21 14:45:12,rh.maria,Folha_Pagamento_Jan.pdf,45,Grayscale,2.25
+2026-01-22 08:20:00,liberth.dev,Script_Automacao_v2.py,2,Grayscale,0.10
+2026-01-23 16:10:33,vendas.jose,Contrato_Cliente_Final.pdf,12,Color,6.00
+2026-01-24 11:05:44,diretoria.ana,Apresentacao_Estrategica.pptx,28,Color,14.00
